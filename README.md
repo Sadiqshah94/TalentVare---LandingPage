@@ -1,4 +1,4 @@
-
+## TalentVare Home page UI
 - **Frontend**: React 19, Vite, TypeScript, Tailwind CSS, Radix UI, Lucide React
 - **Backend**: Node.js, Express.js
 - **UI Components**: Radix UI (for accessible, customizable UI primitives), Tailwind CSS (for styling)
@@ -24,8 +24,7 @@
 - **clsx** (`^2.1.1`): Utility for constructing `className` strings conditionally.
 - **class-variance-authority** (`^0.7.1`): Utility for managing class names based on variants and conditions.
 
-### **Backend Libraries**:
-- **Axios** (`^1.7.9`): Promise-based HTTP client for making API requests.
+
 
 ### **Development Tools**:
 - **ESLint** (`^9.19.0`): A tool for identifying and fixing problems in JavaScript/TypeScript code.
