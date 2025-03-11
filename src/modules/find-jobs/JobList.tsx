@@ -17,7 +17,7 @@ const FindJobs = () => {
     <div className="my-3 container max-w-[1443px] m-auto h-screen ">
       <div className="block lg:flex  h-auto">
         {/* left side  */}
-        <div className="w-full lg:w-[350px] h-auto relative lg:fixed overflow-y-auto transparent-scrollbar">
+        <div className="w-full lg:w-[380px] h-auto relative lg:fixed overflow-y-auto transparent-scrollbar">
           {/* user info  */}
           <UserInfo User={User} />
           {/* user Profile info  */}
@@ -36,7 +36,7 @@ const FindJobs = () => {
           </div>
         </div>
     {/* right side  */}
-        <div className="flex-1 rounded-lg p-4 h-full ml-0 lg:ml-[360px] overflow-auto">
+        <div className="flex-1 rounded-lg p-4 h-full ml-0 lg:ml-[400px] overflow-auto">
           <div>
             <SectionHeader
               title="Find your Dream Job"
